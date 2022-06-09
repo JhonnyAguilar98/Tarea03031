@@ -37,7 +37,7 @@ public class PersonajeVentana extends javax.swing.JFrame {
 
         jLabel1.setText("Ingrese el Nombre:");
 
-        jLabel2.setText("Ingrese el numero de escenas:");
+        jLabel2.setText("Ingrese Nro Escena:");
 
         jLabel3.setText("Ingrese la edad:");
 
